@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @YuZhuZhi
-- 👀 I’m interested in Physics
+- 👀 I’m interested in Physics and Quantum Computation
 - 🌱 I’m currently learning C, C++, JAVA, Latex, Markdown
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me:
