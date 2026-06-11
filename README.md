@@ -3,8 +3,6 @@
 - 🌱 I’m currently learning C++, C#, JAVA, Typst, Latex
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me:
--     QQ: 775868138
--     WeChat: YuZhuZhi32
 -     Mail: 775868138@qq.com
 
 <!---
